@@ -9,7 +9,6 @@ tags = [
 ]
 +++
 
-
 ## Chaines Youtube
 - [Maths*](https://www.youtube.com/@MathsEtoile) : Vidéo orientées prépa+
 - [El Jj](https://www.youtube.com/c/ElJj42) : Maths en tout genre, avec des très bonnes animations
@@ -30,7 +29,14 @@ tags = [
 - [Mathématiques en MP*](https://cpge-paradise.com/MP4Math/MP4_book.pdf) : Cours de MP*4 de LLG (2018-2019)
 - [Site de M. Troesch (Professeur en MP2I à LLG)](http://alain.troesch.free.fr/) : Cours et exercices 
 - [Site de M. Merle (Professeur en MPSI à LLG)](http://quentin.demuynck.free.fr/mathematiques.php) : Cours et exercices
+- [Site de M. Kortchemski](https://igor-kortchemski.perso.math.cnrs.fr/exos.html) : DS, oraux, khôlles de prépa
 - [CPGE Paradise](https://cpge-paradise.com/) : Site très utile pour la prépa (Cours, exercices, annales, conseils, ...)
+
+
+## Calculatrices online
+- [SageMath online](https://sagecell.sagemath.org/) : SageMath en ligne
+- [Wofram Alpha](https://www.wolframalpha.com/)
+- [Numworks](https://www.numworks.com/simulator/) : Emulateur Numworks
 
 ---
 ## Ressources pour les maths olympiques
@@ -40,6 +46,7 @@ tags = [
 - [Site d'Evan Chen](https://web.evanchen.cc/olympiad.html) : Beaucoup d'exos et de polys d'olympiades
 - [Site de Yufei Zhao](https://yufeizhao.com/olympiad/) : Cours d'olympiades de tout niveau
 - [Polycopiés d'exercices](https://www.dropbox.com/sh/w9mfy9qtjs68xzc/AADnnQKWONBsboMGVDiuS-kAa?dl=0) : Très grosse quantité
+- [Site de M. Kortchemski](https://igor-kortchemski.perso.math.cnrs.fr/maths.html) : Cours et exercices
 
 ## PDF de maths olympiques
 - [Exercices de théorie des nombres](https://www.math.muni.cz/~bulik/vyuka/pen-20070711.pdf) : Très, très dur (et pas corrigé)

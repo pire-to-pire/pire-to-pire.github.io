@@ -28,6 +28,8 @@ tags = [
 - [Fonctionnement du RSA](https://leimao.github.io/article/RSA-Algorithm/)
 - [Wiener's Attack](https://en.wikipedia.org/wiki/Wiener%27s_attack) : Trouver la clé privée lorsqu'elle est petite
 - [Factor DB](http://factordb.com/) : Base de donnée de factorisation d'entiers. Disclaimer : Inutile pour progresser
+- [Ron was wrong, Whit is right](https://eprint.iacr.org/2012/064.pdf) : Etude sur l'utilisation de certains nombres premiers plus fréquemment que d'autres pour le RSA
+- [Twenty Years of Attacks on the RSA Cryptosystem](https://www.ams.org/notices/199902/boneh.pdf) : Récapitulatif des méthodes d'attaque contre le RSA
 
 ## Courbes elliptiques
 - [Attacks on the Elliptic Curve Discrete Logarithm Problem](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5f41de1a42882768c2511fee43b69f1ee5507882)

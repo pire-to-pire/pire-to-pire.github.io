@@ -1,10 +1,10 @@
 +++
 author = "Pire-to-Pire"
-title = "Ressources utiles en cryptographie"
+title = "Ressources utiles en developpement web"
 date = "2024-04-17"
-description = "Failles, sites d'entrainement, algos, ..."
+description = "Templates, effets, fonts, ..."
 tags = [
-    "cryptographie",
+    "web",
     "ressources",
 ]
 +++

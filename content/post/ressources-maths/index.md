@@ -30,6 +30,7 @@ tags = [
 - [Site de M. Troesch (Professeur en MP2I à LLG)](http://alain.troesch.free.fr/) : Cours et exercices 
 - [Site de M. Merle (Professeur en MPSI à LLG)](http://quentin.demuynck.free.fr/mathematiques.php) : Cours et exercices
 - [Site de M. Kortchemski](https://igor-kortchemski.perso.math.cnrs.fr/exos.html) : DS, oraux, khôlles de prépa
+- [Site de M.Bourrigan](https://www.bourrigan.fr/hx3.html) : DS, DM, khôlles de prépa
 - [CPGE Paradise](https://cpge-paradise.com/) : Site très utile pour la prépa (Cours, exercices, annales, conseils, ...)
 
 

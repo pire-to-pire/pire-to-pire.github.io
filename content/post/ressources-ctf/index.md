@@ -53,3 +53,8 @@ tags = [
 
 ## Analyse d'image
 - [Photo Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
+
+## OSINT
+- [Osint4All](https://start.me/p/L1rEYQ/osint4all?locale=fr) : Bibliothèque de ressources Osint
+- [WhatsMyName](https://whatsmyname.app/) : Repère des usernames sur différents sites
+- [BreachDirectory](https://breachdirectory.org/) : Trouve des leaks de données.

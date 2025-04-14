@@ -18,6 +18,7 @@ tags = [
 ## Sites d'explication
 - [CTF recipes](https://www.ctfrecipes.com/cryptography/reconnaissance)
 - [The Hacker Recipes](https://www.thehacker.recipes/)
+- [CryptoBook](https://cryptohack.gitbook.io/cryptobook) : En cours de construction
 
 ## Web
 - [Injection Theory](https://owasp.org/www-community/Injection_Theory) : Injecter du code SQL dans une page Web

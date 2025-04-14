@@ -1,6 +1,6 @@
 ---
 title: Pire-to-Pire
-description: Lycéen, fan de maths et d'info !
+description: Préparationnaire, fan de maths et d'info (et maintenant de physique...)!
 date: '2024'
 aliases:
   - about-me
@@ -20,5 +20,5 @@ C'est moi !
 To-do list pour ce site :
 
 - [ ] Remplir cette page
-- [ ] Faire un article : Ressources en maths
-- [ ] Faire un article : Ressources en info
+- [X] Faire un article : Ressources en maths
+- [X] Faire un article : Ressources en info

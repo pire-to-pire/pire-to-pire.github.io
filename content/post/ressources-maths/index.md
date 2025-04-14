@@ -21,7 +21,7 @@ tags = [
 - [Mr. Math](https://www.youtube.com/user/osmannal) (EN) : Maths olympiques
 ---
 
-## Livres pour la prépa
+## Pour la prépa
 - [Livres de spé, en pdf](https://keybase.theophile.me/maths/livres/)
 - [Problèmes intéressants](https://www.normalesup.org/~fjacobe/) : Site de Ferdinand Jacobé de Naurois (chaine Maths*)
 - [Cours de mathématiques](http://exo7.emath.fr/un.html) : Cours de Prépa et plus (vieux site)
@@ -30,7 +30,8 @@ tags = [
 - [Site de M. Troesch (Professeur en MP2I à LLG)](http://alain.troesch.free.fr/) : Cours et exercices 
 - [Site de M. Merle (Professeur en MPSI à LLG)](http://quentin.demuynck.free.fr/mathematiques.php) : Cours et exercices
 - [Site de M. Kortchemski](https://igor-kortchemski.perso.math.cnrs.fr/exos.html) : DS, oraux, khôlles de prépa
-- [Site de M.Bourrigan](https://www.bourrigan.fr/hx3.html) : DS, DM, khôlles de prépa
+- [Site de M. Bourrigan](https://www.bourrigan.fr/hx3.html) : DS, DM, khôlles de prépa
+- [Site de M. Bertault](https://christophebertault.fr/cours-et-exercices/) : DS, DM, Cours de prépa 
 - [CPGE Paradise](https://cpge-paradise.com/) : Site très utile pour la prépa (Cours, exercices, annales, conseils, ...)
 
 

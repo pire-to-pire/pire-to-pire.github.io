@@ -19,6 +19,7 @@ tags = [
 
 ## Algorithmie
 - [Algorithms, par Erickson](http://algorithms.wtf/) (EN)
+- [The Ultimate Topic List](https://youkn0wwho.academy/topic-list) (EN)
 
 ## Pour préparer la prépa
 - [Avant la MP2I](https://www.normalesup.org/~rouvroy/ressources/Avant%20La%20MP2I.pdf)
